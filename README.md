@@ -10,4 +10,12 @@
 * Use Cases
 * Work packages
 
-# Developers
+### Specification
+* Device Communication
+* Standardization
+* Data integration
+* Implementation
+* Testing
+* Betrieb
+
+### Architecture
